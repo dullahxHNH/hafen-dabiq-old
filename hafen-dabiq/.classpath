@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/jnlp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/jglob.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Root/git/kt-client/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
