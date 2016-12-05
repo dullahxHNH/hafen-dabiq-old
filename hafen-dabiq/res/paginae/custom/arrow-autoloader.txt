@@ -1,1 +1,0 @@
-Toggles mode in which arrows will be automatically transferred to the inventory from the open quiver once they're shot.
